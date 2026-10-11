@@ -1,6 +1,6 @@
 # 🛒 Amit's Portfolio | ChotuAI — Dukaan ka AI Assistant
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Amit's%20Portfolio-blue?style=flat-square)](https://www.linkedin.com/in/amitbn1390/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Amit's%20Portfolio-blue?style=flat-square)](https://github.com/Amit152505)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Amit%20B%20N-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/amitbn1390/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)](LICENSE)
 
